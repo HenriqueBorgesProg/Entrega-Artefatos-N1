@@ -1,5 +1,7 @@
 ## Biblioteca 
 
+
+
 ![Node.js](https://img.shields.io/badge/Node.js-18-green)
 ![Express](https://img.shields.io/badge/Express.js-backend-black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-database-blue)
@@ -134,7 +136,9 @@ Solicitações
 
 O sistema utiliza a classe AppError para representar erros de negócio. Os services lançam esses erros, que são capturados e processados por um middleware global de tratamento de exceções, retornando respostas padronizadas.
 
-## Autor
+## Autores
 
 Pedro Henrique de Araujo Pereira
+Henrique Borges da Silva
+João Lucas Pereira Martins
 
